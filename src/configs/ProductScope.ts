@@ -1,0 +1,11 @@
+const ProductScope = {
+	GLOBAL: "GLOBAL",
+	CONTINENT: "CONTINENT",
+	COUNTRY: "COUNTRY",
+	PROVINCE: "PROVINCE",
+	CITY: "CITY",
+	AIRPORT: "AIRPORT",
+	TERMINAL: "TERMINAL",
+};
+
+export default ProductScope;

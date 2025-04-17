@@ -1,0 +1,186 @@
+{
+  "project_info": {
+    "project_number": "282570203228",
+    "project_id": "tourish-app-14eb5",
+    "storage_bucket": "tourish-app-14eb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282570203228:android:1b00cac00933306e37c699",
+        "android_client_info": {
+          "package_name": "com.tourishapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282570203228-2c95upase4rp6vtag6fp1k42ko37v2rn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tourishapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "282570203228-g04u1ar5v0c6qvu1hq6rhpa4tbjs9onm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tourishapp",
+            "certificate_hash": "f0acd06dd657ea965c68344a7e5994c4e9b91d22"
+          }
+        },
+        {
+          "client_id": "282570203228-kkb53gtn7ino8jvon9sd44hiukskje8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tourishapp",
+            "certificate_hash": "e437239fc56d2103958304d81e5ec594478095fb"
+          }
+        },
+        {
+          "client_id": "282570203228-gr41vaejeapqlpjo29tigac77mhvi9n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDyTU0tWBkyidua0HAKjARBrOhv9lZ4KA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282570203228-gr41vaejeapqlpjo29tigac77mhvi9n7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282570203228-1g1b6l28cntmk8s5g8jk506m8alejo0k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TourishApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282570203228:android:43efd0ed0860126b37c699",
+        "android_client_info": {
+          "package_name": "com.tourishapp.development"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282570203228-gr41vaejeapqlpjo29tigac77mhvi9n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDyTU0tWBkyidua0HAKjARBrOhv9lZ4KA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282570203228-gr41vaejeapqlpjo29tigac77mhvi9n7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282570203228-1g1b6l28cntmk8s5g8jk506m8alejo0k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TourishApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282570203228:android:6b99736dce2236d937c699",
+        "android_client_info": {
+          "package_name": "com.tourishapp.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282570203228-gr41vaejeapqlpjo29tigac77mhvi9n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDyTU0tWBkyidua0HAKjARBrOhv9lZ4KA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282570203228-gr41vaejeapqlpjo29tigac77mhvi9n7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282570203228-1g1b6l28cntmk8s5g8jk506m8alejo0k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TourishApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282570203228:android:6e6ca16ce398969437c699",
+        "android_client_info": {
+          "package_name": "com.tourishbusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282570203228-a6q1p6i1lidqlmm38lk794g71iphgbat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tourishbusiness",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "282570203228-gr41vaejeapqlpjo29tigac77mhvi9n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDyTU0tWBkyidua0HAKjARBrOhv9lZ4KA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282570203228-gr41vaejeapqlpjo29tigac77mhvi9n7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "282570203228-1g1b6l28cntmk8s5g8jk506m8alejo0k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.TourishApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
